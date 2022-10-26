@@ -1,1 +1,1 @@
-link : https://github.com/Reqima-dev/abdul-kondo
+link : https://reqima-dev.github.io/abdul-kondo/
